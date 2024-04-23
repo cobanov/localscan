@@ -1,5 +1,7 @@
 # LocalScan
 
+![image](assets/image.png)
+
 ## To-do
 
 - [ ] Better colorization
