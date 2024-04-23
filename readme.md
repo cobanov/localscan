@@ -1,6 +1,6 @@
 # LocalScan
 
-![image](assets/image.png)
+![image](assets/demo.png)
 
 ## To-do
 
