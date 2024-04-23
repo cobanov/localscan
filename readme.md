@@ -2,6 +2,22 @@
 
 ![image](assets/demo.png)
 
+## Install
+
+nmap should be installed
+
+### Windows
+
+```plain
+https://nmap.org/download.html#windows
+```
+
+### MacOS
+
+```bash
+brew install nmap
+```
+
 ## To-do
 
 - [ ] Better colorization
